@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://roahlee.github.io/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://roahlee.github.io/</loc><lastmod>2022-05-05T19:40:22&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://roahlee.github.io/zh-cn/"
@@ -11,7 +11,7 @@
                     hreflang="en"
                     href="https://roahlee.github.io/"
                     /></url><url>
-            <loc>https://roahlee.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://roahlee.github.io/categories/</loc><lastmod>2022-05-05T19:40:22&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://roahlee.github.io/zh-cn/categories/"
@@ -20,7 +20,12 @@
                     hreflang="en"
                     href="https://roahlee.github.io/categories/"
                     /></url><url>
-            <loc>https://roahlee.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://roahlee.github.io/categories/category/</loc><lastmod>2022-05-05T19:40:22&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://roahlee.github.io/posts/</loc><lastmod>2022-05-05T19:40:22&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://roahlee.github.io/categories/subcategory/</loc><lastmod>2022-05-05T19:40:22&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://roahlee.github.io/tags/tag1/</loc><lastmod>2022-05-05T19:40:22&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://roahlee.github.io/tags/tag2/</loc><lastmod>2022-05-05T19:40:22&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://roahlee.github.io/tags/</loc><lastmod>2022-05-05T19:40:22&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="https://roahlee.github.io/zh-cn/tags/"
@@ -28,4 +33,5 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://roahlee.github.io/tags/"
-                    /></url></urlset>
+                    /></url><url>
+            <loc>https://roahlee.github.io/test/</loc><lastmod>2022-05-05T19:40:22&#43;09:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
