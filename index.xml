@@ -4,15 +4,7 @@
         <link>https://roahlee.github.io/</link>
         <description>A Journal of Growth(hopefully)</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>daikilee03ms@gmail.com (RoahLee)</managingEditor>
-            <webMaster>daikilee03ms@gmail.com (RoahLee)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 05 May 2022 19:07:10 &#43;0900</lastBuildDate>
+            <webMaster>daikilee03ms@gmail.com (RoahLee)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
             <atom:link href="https://roahlee.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>Test2</title>
-    <link>https://roahlee.github.io/test/</link>
-    <pubDate>Thu, 05 May 2022 19:07:10 &#43;0900</pubDate>
-    <author>RoahLee</author>
-    <guid>https://roahlee.github.io/test/</guid>
-    <description><![CDATA[]]></description>
-</item>
-</channel>
+        </channel>
 </rss>
